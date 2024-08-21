@@ -230,3 +230,15 @@ section h2 {
     position: relative;
     z-index: 1;
 }
+#about{
+    background-image: url(/images/WhatsApp\ Image\ 2024-08-21\ at\ 5.20.01\ PM.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#contact{
+    background-image: url(/images/WhatsApp\ Image\ 2024-08-21\ at\ 5.44.06\ PM.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
